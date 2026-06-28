@@ -1,4 +1,4 @@
-movie = []
+movie = {}
 
 title = input("What is the movie title? ")
 year = input("What year did the movie come out? ")
