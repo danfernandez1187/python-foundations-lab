@@ -6,7 +6,7 @@ item_three = input("Enter your third grocery item: ")
 
 groceries.append(item_one)
 groceries.append(item_two)
-groceries.apend(item_three)
+groceries.append(item_three)
 
 print("Your grocery list:")
 
